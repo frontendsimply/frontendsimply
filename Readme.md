@@ -12,7 +12,7 @@
     - A supportive environment where questions are welcomed and growth is encouraged.
 
 🤝 Join Us:
-No matter where you are in your frontend journey, frontendsimply is here to support you. Connect with us on [Social Media Links], attend our meetups, and dive into our online forums. Together, let's push the boundaries of frontend development and shape the digital experiences of tomorrow.
+No matter where you are in your frontend journey, frontendsimply is here to support you. Connect with us on https://www.instagram.com/frontendsimply, attend our meetups, and dive into our online forums. Together, let's push the boundaries of frontend development and shape the digital experiences of tomorrow.
 
 📬 Stay Connected:
 Follow us on instagram and be part of the conversation using the hashtag #frontendsimply. Join our vibrant Discord server for real-time discussions and updates.
